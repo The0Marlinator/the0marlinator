@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marlon</h1>
 <h3 align="center">A Passionate Software Engineer Living in Sweden and 3D Printing Enthusiast</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the0marlinator" alt="the0marlinator" /></a> </p>
+
+- 📫 How to reach me **The0Marlinator@outlook.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/marlon abeln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marlon abeln" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
