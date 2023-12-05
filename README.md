@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marlon</h1>
-<h3 align="center">A Passionate Software Engineer Living in Sweden and 3D Printing Enthusiast</h3>
+<h3 align="center">A Passionate Software Engineer and 3D Printing Enthusiast Living in Sweden.</h3>
 
 - 🌱 I’m currently learning **Java EE**
 
