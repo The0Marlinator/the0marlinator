@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marlon</h1>
 <h3 align="center">A Passionate Software Engineer Living in Sweden and 3D Printing Enthusiast</h3>
 
+- 🌱 I’m currently learning **Java EE**
+
 - 📫 How to reach me **The0Marlinator@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
